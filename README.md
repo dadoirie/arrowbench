@@ -34,6 +34,6 @@ Only the "addition" and "result" item can have nbt information.\
 The "addition" field is not necessary!
 
 ### CREDITS & LICENSE
-This project uses code that is MIT licensed. Base of this Project is the fletching table from [AdditionZ](https://github.com/Globox1997/AdditionZ) from [Globox1997](https://github.com/Globox1997). If want more additions use AdditionZ instead as Arrow Bench is only a single stripped down functionality of it. 
+This project uses code that is MIT licensed. Base of this Project is the fletching table from [AdditionZ](https://github.com/Globox1997/AdditionZ) from [Globox1997](https://github.com/Globox1997). Check out AdditionZ as Arrow Bench is only a single stripped down functionality of it.
  
 [Changelog](https://github.com/dadoirie/arrowbench/blob/master/CHANGELOG.md)
